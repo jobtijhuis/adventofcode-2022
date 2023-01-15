@@ -1,0 +1,7 @@
+{
+    "cmake.sourceDirectory": "${workspaceFolder}/day01",
+    "cmake.buildDirectory": "${workspaceFolder}/day01/build",
+    "workbench.colorTheme": "Yi Dark",
+    "cmake.generator": "Ninja",
+    // "cmake.loggingLevel": "debug"
+}

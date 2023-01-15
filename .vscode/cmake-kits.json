@@ -1,0 +1,10 @@
+[
+  {
+    "name": "conan-gcc-11.3.1",
+    "compilers": {
+      "C": "/usr/lib64/ccache/gcc",
+      "CXX": "/usr/lib64/ccache/g++"
+    },
+    "environmentSetupScript": "${workspaceFolder}/day01/build/conanbuild.sh"
+  }
+]
